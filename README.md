@@ -1,3 +1,3 @@
-## TS-NODE-EXPRESS
+## TS-NODE-EXPRESS-TODOLIST
 
-Simple and re-usable typescript/node/express app as starter of Node.ts project
+Simple todo-list using fs as db
