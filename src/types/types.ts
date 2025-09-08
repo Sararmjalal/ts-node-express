@@ -3,7 +3,9 @@ export interface AppError extends Error {
 }
 
 export interface Config {
-  port: number;
-  nodeEnv: string;
-  allowedOrigins: string[];
+  port: number
+  nodeEnv: string
+  baseOfRoute: string
+  allowedOrigins: string[]
 }
+
